@@ -1,9 +1,15 @@
-# AI 招聘简历筛选 Multi-Agent 项目
+# 企业级 Multi-Agent 智能运营平台
 
-## 项目简介
-使用多 Agent 协作完成岗位 JD 解析、简历评分、面试问答生成、结果汇总。
+基于 OpenAI + LangChain 思路的多智能体任务自动化系统。
 
-## 运行
+## 功能
+- Planner Agent 任务拆解
+- Research Agent 信息检索
+- Writer Agent 内容生成
+- Reviewer Agent 质量审核
+- Executor Agent 输出结果
+
+## 启动
 ```bash
 pip install -r requirements.txt
 python main.py

@@ -1,3 +1,3 @@
-from src.orchestrator import run_demo
+from app.orchestrator import run_demo
 if __name__ == '__main__':
     run_demo()
