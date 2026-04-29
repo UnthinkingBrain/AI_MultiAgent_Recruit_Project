@@ -1,4 +1,4 @@
-# 企业级 Multi-Agent 智能运营平台
+# Multi-Agent 智能运营平台
 
 基于 OpenAI + LangChain 思路的多智能体任务自动化系统。
 
